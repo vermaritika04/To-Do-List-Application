@@ -10,7 +10,9 @@ This is a To-Do List Application to Add,View, and Delete Tasks accordingly.
 ## Features 
 
 -Add any number of tasks using the input box and clicking 'Add Todo'.
+
 -Delete tasks from the list according to your choice.
+
 -Empty inputs cannot be added as tasks.
 
 
