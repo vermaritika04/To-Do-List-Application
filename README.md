@@ -7,8 +7,6 @@
 
 This is a To-Do List Application to Add,View, and Delete Tasks accordingly.
 
-#### Live Link - https://shobhit1338.github.io/To-Do-List-Application/
-
 ## Features 
 
 - Add any number of Tasks from Input Box by clicking 'Add Todo'.
@@ -17,9 +15,7 @@ This is a To-Do List Application to Add,View, and Delete Tasks accordingly.
 
 > This Application was created using JavaScript, React.js, and HTML/CSS.
 
-## Sample GIF
 
-![Tic Tac Toe Game](https://raw.githubusercontent.com/Shobhit1338/To-Do-List-Application/main/ToDoList.gif)
 
 ## Installation
 
