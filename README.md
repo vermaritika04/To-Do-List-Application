@@ -9,9 +9,10 @@ This is a To-Do List Application to Add,View, and Delete Tasks accordingly.
 
 ## Features 
 
-- Add any number of Tasks from Input Box by clicking 'Add Todo'.
-- Delete any Task from the list according to your choice.
-- Empty Input cannot be added as Task.
+-Add any number of tasks using the input box and clicking 'Add Todo'.
+-Delete tasks from the list according to your choice.
+-Empty inputs cannot be added as tasks.
+
 
 > This Application was created using JavaScript, React.js, and HTML/CSS.
 
